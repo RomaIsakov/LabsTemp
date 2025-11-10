@@ -1,6 +1,7 @@
 #include "lab2.h"
 #include <math.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 // Задача 1 - Чётное или нечётное
 int is_even(int n) {
